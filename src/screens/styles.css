@@ -1,0 +1,29 @@
+/* /.card-body{
+    border : 2px solid black;
+    border-radius: 20px;
+} */
+*{
+    background-color: #567CCF;
+}
+.card{
+    height: 123px;
+    width: 400px;
+} 
+.kasus{
+    color : red;
+}
+.positif{
+    background-color: #567CCF;
+}
+.card-text{
+    color : white;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card-title{
+    color : white;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
